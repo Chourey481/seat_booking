@@ -12,7 +12,7 @@ import {
 import { motion } from "framer-motion";
 import { toast } from "react-hot-toast";
 import useLoginStore from "../../store/useLogin";
-import loginImage from "../../assets/login.jpg";
+import loginImage from "../../assets/inspiringtalent_icon.png";
 
 const Login = () => {
   const navigate = useNavigate();
